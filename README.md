@@ -4,5 +4,5 @@ Dark Sources OSINT | Offensive tools
 🐧 🥷 
 
 ---
-
-Read my **[Medium](https://medium.com/@umbraxsecure)**
+Check my **[page](https://0z4i.github.io)**
+Read my **[Medium](https://medium.com/@0z4i)**
